@@ -358,7 +358,7 @@ h2,h3,h4,h5,h6{
 .blklt-clr { color: #444; }
 .gry-clr { color: #666666; }
 .drk-gry { color: #939393; }
-.lgt-gry { color: #a0a0a0; }
+.lgt-gry { color: #d3d1d1; }
 .lght-ylw { color: #eef1c9;}
 .clr1 {color: #5b3333;}
 .grn-clr { color: #99cc00;}
@@ -3880,9 +3880,11 @@ form .required {
     color: #a0a0a0;
 }
 .slider-title .funky-font {
+    text-shadow: 2px 2px #504c4c;
     line-height: 0;
 }
 .slider-title .funky-font-2 {
+    text-shadow: 1px 1px #504c4c;
     display: block;
     margin: 10px auto;
     padding-left: 20%;
